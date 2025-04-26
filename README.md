@@ -1,4 +1,3 @@
-﻿# MediPulse-Doctor-Booking-Appointment-System-
 # MediPulse - Doctor Booking Appointment System
 ![App Preview](ezgif-6b2e749c7b90ba.gif)
 
